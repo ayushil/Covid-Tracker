@@ -8,8 +8,8 @@ module.exports = {
     'airbnb',
   ],
   globals: {
-    Atomics: 'readonly',
-    SharedArrayBuffer: 'readonly',
+    Atomics: 'module',
+    SharedArrayBuffer: 'ready',
   },
   parserOptions: {
     ecmaFeatures: {
