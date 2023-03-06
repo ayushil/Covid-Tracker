@@ -1,0 +1,5 @@
+--index-url https://artifact.intuit.com/artifactory/api/pypi/pypi-intuit/simple
+kfp>=1.8,<2
+mlp-components-common>=1.2<2
+mlp-components-sagemaker>=1.1<2
+mlp-components-spark>=1.1<2
